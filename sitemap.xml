@@ -3,13 +3,10 @@
 <url> <loc>https://developers.beckn.org/APIReference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/SetupBecknApp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/SetupBecknGateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/contributions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/SetupBecknProvider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknAppAPI</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknGatewayProviderSide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/APIReference/BPRegistration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknGatewayAppSide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Amount</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -89,4 +86,7 @@
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/trackTrip</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/updateTripState</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/searchTrips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/APIReference/BPRegistration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/SetupBecknGateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/SetupBecknProvider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
