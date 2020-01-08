@@ -86,7 +86,7 @@
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/trackTrip</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/updateTripState</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/searchTrips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/SetupBecknProvider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BPRegistration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/SetupBecknGateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/SetupBecknProvider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
