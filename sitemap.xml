@@ -30,7 +30,6 @@
 <url> <loc>https://developers.beckn.org/Resources/Person</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Tracking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/TravelGroup</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Resources/Stop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Transfer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Traveler</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Trip</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -89,4 +88,5 @@
 <url> <loc>https://developers.beckn.org/APIReference/BPRegistration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/SetupBecknGateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Journey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Resources/Stop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
