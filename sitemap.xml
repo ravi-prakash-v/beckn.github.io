@@ -17,7 +17,6 @@
 <url> <loc>https://developers.beckn.org/Resources/FareProduct</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Edge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Header</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Resources/Journey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/Location</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/JourneyIntent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Resources/MobilityForm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -89,4 +88,5 @@
 <url> <loc>https://developers.beckn.org/SetupBecknProvider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BPRegistration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/SetupBecknGateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Resources/Journey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
