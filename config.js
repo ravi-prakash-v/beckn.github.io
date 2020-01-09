@@ -1,67 +1,51 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://developers.beckn.org",
 		"gaTrackingId": null
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logoLink": "http://developers.beckn.org",
+		"title": "Beckn for Developers",
+		"githubUrl": "https://github.com/beckn/beckn.github.io",
 		"helpUrl": "",
 		"tweetText": "",
+		"apiVersion" : "0.5.3",
 		"links": [
 			{ "text": "", "link": ""}
 		],
 		"search": {
 			"enabled": false,
-			"indexName": "",
-			"algoliaAppId": process.env.GATSBY_ALGOLIA_APP_ID,
-			"algoliaSearchKey": process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-			"algoliaAdminKey": process.env.ALGOLIA_ADMIN_KEY
+			"indexName": "DEV_BECKN",
+			"algoliaAppId": "2Y9CZOBKNK",
+			"algoliaSearchKey": "5c64c21b906ecb2f6ab59b78f119586a",
+			"algoliaAdminKey": "4c10dd346708cec47e67cedbb2601eee"
 		}
 	},
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/codeblock"
+    	"/SetupBecknApp",
+			"/SetupBecknProvider",
+			"/SetupBecknGateway",
+			"/APIReference",
+			"/Resources",
+			"/contributions",
 		],
-    	"collapsedNav": [
-      		"/codeblock"
-    	],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Beckn Official Page", "link": "http://beckn.org"},
 		],
-		"frontline": false,
-		"ignoreIndex": true,
+		"frontline": true,
+		"ignoreIndex": false,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
+		"title": "Beckn - Developer Page",
 		"description": "Documentation built with mdx. Powering learn.hasura.io ",
 		"ogImage": null,
 		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
 	},
-	"pwa": {
-		"enabled": false, // disabling this will also remove the existing service worker.
-		"manifest": {
-			"name": "Gatsby Gitbook Starter",
-			"short_name": "GitbookStarter",
-			"start_url": "/",
-			"background_color": "#6b37bf",
-			"theme_color": "#6b37bf",
-			"display": "standalone",
-			"crossOrigin": "use-credentials",
-			icons: [
-				{
-					src: "src/pwa-512.png",
-					sizes: `512x512`,
-					type: `image/png`,
-				},
-			],
-		},
-	}
 };
 
 module.exports = config;

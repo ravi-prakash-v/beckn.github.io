@@ -75,12 +75,12 @@ const Header = ({location}) => (
       const finalLogoLink = logo.link !== '' ? logo.link : '/';
       return (
         <div className={'navBarWrapper'}>
-          <nav className={'navBarDefault'}>
-            <div className={'navBarHeader'}>
+          <nav className={'navbar navbar-default navBarDefault'}>
+            <div className={'navbar-header navBarHeader'}>
               <Link to={finalLogoLink} className={'navBarBrand'}>
-                <img className={'img-responsive displayInline'} src={(logo.image !== '') ? logo.image : logoImg} alt={'logo'} />
+                <div className={"headerTitle"} dangerouslySetInnerHTML={{__html: headerTitle}} />
+                &nbsp;- v{config.header.apiVersion}
               </Link>
-              <div className={"headerTitle displayInline"} dangerouslySetInnerHTML={{__html: headerTitle}} />
               <span onClick={myFunction} className={'navBarToggle'}>
                 <span className={'iconBar'}></span>
                 <span className={'iconBar'}></span>
@@ -125,10 +125,7 @@ const Header = ({location}) => (
                     </a>
                    </li>) : null
                 }
-                {githubUrl !== '' ?
-                  (<li className={'githubBtn'}>
-                    <GitHubButton href={githubUrl} data-show-count="true" aria-label="Star on GitHub">Star</GitHubButton>
-                  </li>) : null}
+                
               </ul>
             </div>
           </nav>
