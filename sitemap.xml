@@ -53,7 +53,6 @@
 <url> <loc>https://developers.beckn.org/APIReference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknGatewayAppSide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/APIReference/BecknGatewayProviderSide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknGatewayAppSide/addStop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknGatewayAppSide/addTravelers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknGatewayAppSide/cbGetTravelersCred</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -86,4 +85,5 @@
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/removeStop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/removeTrip</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/APIReference/BecknProviderAPI/updateTripState</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/APIReference/BecknGatewayProviderSide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
