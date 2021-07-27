@@ -1,123 +1,244 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://developers.beckn.org/FoodAndBeverage</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/Mobility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/ReleaseHistory</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/Latest</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/API</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/API</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/Schema</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/API</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/API</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/catalog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_catalog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/agent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/intent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/item</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/paradigm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/package</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/order</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/service</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/Schema/task</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/API/beckn-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/API/beckn-provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/Schema/customer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/Schema/cuisine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/Schema/fnb_agent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/Schema/fnb_item</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/Schema/fnb_intent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/Schema/fnb_service</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/availability</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/channel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/consultation_intent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/clinical_notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/API/beckn-registry</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/consultation_service</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/consultation_summary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/consultation_protocol</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/consultation_type</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/doctor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/consultation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/domain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/header</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/object_map</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/network_side</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/person</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/query</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/prescription</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/taxonomy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/service_change</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/taxonomy_item</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/telehealth_app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/Schema/telehealth_provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/API/beckn-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/driver</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/fare_product</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/API/beckn-provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/mobility_intent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/medium</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/mobility_service</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/route</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/transfer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/stop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/tracking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/travel_group</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/traveller</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/trip</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/Schema/vehicle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/API/beckn-gateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/API/beckn-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/API/beckn-provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/ack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/catalog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/image</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/item</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/domain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/location</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/offer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/operator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/person</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/price</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/scalar_range</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/scalar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/service</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/token</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/OlderVersions/Schema/tag</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FinalMileDelivery/API/on_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/FoodAndBeverage/API/beckn-gateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/API/beckn-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Healthcare/API/beckn-provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/02_OlderVersions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Gateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/ack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/addon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/address</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/agent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/billing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/catalog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/category</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/circle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/city</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforinit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforconfirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforcancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforon_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforrating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforselect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforsearch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextfortrack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforstatus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforsupport</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/decimalvalue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/contextforupdate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/country</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/descriptor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/dimensions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/domain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/duration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/feedback</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/gps</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/fulfillment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/image</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/item</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/intent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/itemquantity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforcancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/location</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforconfirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforinit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforrating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforon_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforsearch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforstatus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforsupport</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforselect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messagefortrack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/name</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/messageforupdate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/offer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/order</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/option</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/organization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/person</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/price</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/payment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/state</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/scalar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/quotation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/tracking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/time</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/Schema Reference/vehicle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/02_OlderVersions/0.9.1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/API Reference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/Authentication</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/002_on_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/001_on_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/004_on_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/003_on_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/006_on_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/005_on_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/007_on_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/009_on_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/010_on_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Gateway/001_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn App/008_on_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/001_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/002_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/003_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Gateway/002_on_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/007_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/005_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/006_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/009_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/008_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/010_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Mobility/API Reference/Beckn Provider/004_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Gateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/ack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/addon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/catalog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/billing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/address</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/agent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/circle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/category</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/city</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforcancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforconfirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforinit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforsearch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforon_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforrating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforselect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforstatus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextfortrack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforupdate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/contextforsupport</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/country</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/decimalvalue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/dimensions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/descriptor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/domain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/duration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/feedback</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/image</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/fulfillment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/gps</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/item</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/intent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/itemquantity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/location</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforcancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforinit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforconfirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforrating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforsearch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforon_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforstatus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforselect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/name</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforupdate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/offer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messagefortrack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/option</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/messageforsupport</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/order</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/organization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/person</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/payment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/price</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/quotation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/provider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/state</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/scalar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/time</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/tracking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/Schema Reference/vehicle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/Authentication/Gateway Signing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/API Reference/Subscriber</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/API Reference/Registry</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/Authentication/Subscriber Signing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/Authentication/Signature Verification</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/001_on_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/002_on_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/003_on_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/004_on_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/006_on_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/005_on_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/007_on_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/008_on_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/009_on_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn App/010_on_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/01_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Gateway/01_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/03_init</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Gateway/02_on_search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/05_status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/02_select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/06_track</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/04_confirm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/09_rating</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/07_cancel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/08_update</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/01_Latest/API Reference/Beckn Provider/10_support</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/API Reference/Subscriber/on_subscribe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/API Reference/Registry/01_subscribe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/02_Infrastructure Layer Specification/Latest/API Reference/Registry/02_lookup</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://developers.beckn.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Mobility/API/beckn-gateway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://developers.beckn.org/Core/Latest/0.9.1-draft03</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.beckn.org/Core/01_Transaction Layer Specification/02_OlderVersions/0.9.1/Specs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
